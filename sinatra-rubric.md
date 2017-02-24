@@ -1,0 +1,5 @@
+1. Does not understand that the name attributes construct the params in the form, do not understand method and action
+2. Understand the significance of name attribute in a form, the method and action, but point to the wrong routes, and consistently write out routes that are not restful.  
+3. Properly writes out the name attributes, and correct with most restful routes, however incorrect with the body of the some of the controller actions -- either with incorrect use of mass assignment, or repeatedly not making activerecord calls when necessary.  May not understand that how a redirect works.
+4.  Incorrect with some controller actions but most are correct, and displays correct conceptual understanding.  Understands which actions should respond with a redirect, and redirects to the correct routes.
+5. Perfect construction of sinatra forms, restful routes are all correct (or all except for one is correct), and correct use of mass assignment, and correct activerecord calls, and redirects in the controller.
